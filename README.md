@@ -1,6 +1,6 @@
 ### Wssup?
 
-- 🌱 Studying React.js, CyberSec & Nest.js.
+- 🌱 Studying Java!
 - 📫 Contact me on Instagram: @ClaaudioRocha
 - 😄 Ele/Dele
 
